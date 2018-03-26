@@ -25,7 +25,7 @@ ISBI 2018 Tutorial on CXR Anatomy Segmentation
 3. Create a VirtualEnv (e.g. `ISBI-Tutorial-Environment`) . To learn how to create one see more here: https://virtualenv.pypa.io/en/stable/userguide/#usage
 4. Activate your new VirtualEnv. To learn how to activate one see more here: https://virtualenv.pypa.io/en/stable/userguide/#activate-script
 5. Now that you are inside your virtual environment go to the folder where you cloned the repository e.g. `>cd ~/Desktop/Tutorial/`
-6. From the terminal run `pip3 install -r requirements.txt` to install the libraries. That might take a few minutes.
+6. From the terminal run `pip3 install -r requirements.txt` if your VirtualEnv is running Python3 or  `pip install -r requirements.txt` for Python2 to install the libraries. That might take a few minutes.
 7. Once finished, make sure Keras/Tensorflow work (see figure below)
 
 
