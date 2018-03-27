@@ -15,7 +15,7 @@ ISBI 2018 Tutorial on CXR Anatomy Segmentation
 ### Requirements
 - A computer Ubuntu/Mac/Windows operating system
 - High-speed internet access to download packages and repository (contains images)
-- Python 3.6
+- Python 3.6 or 2.7
 - VirtualEnv (see Linux/Mac instructions: https://virtualenv.pypa.io/en/stable/installation/, see example Windows instructions: http://timmyreilly.azurewebsites.net/python-pip-virtualenv-installation-on-windows/)
 
 ### Installation Steps
