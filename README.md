@@ -50,7 +50,7 @@ ISBI 2018 Tutorial on CXR Anatomy Segmentation
 
  
 ------------------ 
-####About the data
+###About the data
 Disclaimer: Please do not share the data set outside of your research group/organization, but forward new data set requests to Sameer Antani, project leader at National Library of Medicine of the National Institutes of Health. *
 
 IRB Details: The dataset were de-identified by the data providers and were exempted from IRB review at their institutions. The data set use and public release were exempted from IRB review (No. 5357) by the NIH Office of Human Research Projections Programs.
