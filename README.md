@@ -32,7 +32,14 @@ ISBI 2018 Tutorial on CXR Anatomy Segmentation
 ![Alt text](./Figures/virtualenv.png "Verify Keras")
 
 
-8. Type `exit()` to exit the python interpreter. Finally run `jupyter notebook` and your browser will automatically open with Jupyter Notebook pointing to the `Tutorial` folder (see figure below)
+8. Type `exit()` to exit the python interpreter. 
 
 
-![Alt text](./Figures/jupyter.png "Verify Keras")
+### Post-Installation Steps
+
+1. Download this project from Github (https://github.com/alexkarargyris/ISBI_2018_Tutorial/archive/master.zip) and unzip its files inside your folder e.g. `~/Desktop/Tutorial/`
+2. Download the pretrained network with 10x10 kernels from here https://ibm.box.com/s/ane1j8h4g2ra1rookny1jz7gxwnjodxw and place it inside your folder `~/Desktop/Tutorial/`
+3. Download the pretrained network with 2x2 kernels from here https://ibm.box.com/s/bh4dik59b3h37t184eidmtnmuxt3a2o8 and place it inside your folder `~/Desktop/Tutorial/`
+4. With your Virtual Environment activated navigate to your folder e.g. `~/Desktop/Tutorial` and execute `jupyter notebook` . The browser should open to following screen.
+
+![Alt text](./Figures/TutorialJupyter.png "Jupyter Nottebook")
